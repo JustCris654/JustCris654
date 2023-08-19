@@ -5,4 +5,4 @@
 - 💬 Ask me about anything related to computer science
 - 📫 My linkedin account: https://www.linkedin.com/in/cristian-scapin-9aa977212/
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCris654&hide=php,lua,elisp)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCris654&hide=php,lua)](https://github.com/anuraghazra/github-readme-stats)
