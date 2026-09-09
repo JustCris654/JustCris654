@@ -2,4 +2,4 @@
 
 📫 My linkedin account: https://www.linkedin.com/in/cristian-scapin-9aa977212/
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCris654&hide=php,lua,c%23)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JustCris654&layout=compact&langs_count=4&theme=omni&hide=javascript,lua&exclude_repo=emacs-conf,nvim-config,PratoFiorito&langs_count=5)](https://github-stats-extended.vercel.app/api/top-langs?username=JustCris654&layout=compact&langs_count=4&theme=omni)
